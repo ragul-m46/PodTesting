@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.authors         = {'Ragul M' => 'Ragul.m@optisolbusiness.com'}
   spec.summary         = 'Its a sample framework'
   spec.description     = "This is a sample framework that displays a print statement."
-  spec.source          = { :git => 'https://github.com/ragul-m46/Tester.git', :tag => '1.0.0'}
+  spec.source          = { :git => 'https://github.com/ragul-m46/PodTesting.git', :tag => '1.0.0'}
   spec.source_files    = "Tester/**/*.{swift}"
   spec.swift_versions  = "5.0"
   spec.platform = :ios, "13.0"
